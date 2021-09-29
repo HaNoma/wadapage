@@ -6,3 +6,4 @@
 かんじです
 
 Data.txtへのリンクです。
+https://github.com/HaNoma/wadapage/blob/main/Data.txt
